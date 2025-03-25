@@ -1,3 +1,3 @@
 # Hello, Word!
- Primeiro repositório do curso de Git/GitHub do Curso em Vídeo,por Gustavo Guanabara!
+ Primeiro repositório do curso de Git/GitHub do Curso em Vídeo, por Gustavo Guanabara!
 
